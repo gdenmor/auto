@@ -1,0 +1,115 @@
+#contenedor{
+    background-color: #83C2CF;
+    width: 40%;
+    /*justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;*/
+    border: 3px solid;
+    border-radius: 20%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#imagen{
+    width: 100%;
+    margin-bottom: 3%;
+    justify-content: center;
+}
+#imagen img{
+    width: 100%;
+}
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+#usuario{
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+}
+
+#usuario #lblUsuario{
+    margin-bottom: 5%;
+}
+
+#contraseña{
+    margin-bottom: 2%;
+    text-align: center;
+    justify-content: center;
+}
+
+#error{
+    color: red;
+}
+
+.botones{
+    text-align: center;
+    width: 45%;
+}
+
+.botones input{
+    width: 100%;
+    background-color: #746C6C;
+    color: #FFFF;
+}
+
+#diverror{
+    margin-left: 2%;
+}
+
+#divbotones{
+    display: flex; /* Cambiado de inline-block a flex */
+    justify-content: space-between; /* Espacio entre los botones */
+    width: 100%;
+    margin-top: 10%;
+    text-align: left;
+}
+
+#lblUsuario{
+    text-align: left;
+    height: 10%;
+}
+
+#contraseña #lblContrasena{
+    margin-bottom: 5%;
+    text-align: left;
+}
+
+
+#forgot_password{
+    text-align: center;
+    margin-top: 8%;
+}
+
+#forgot_password a{
+    color: black;
+    width: 100%;
+}
+
+#forgot_password a:hover{
+    color: aliceblue;
+}
+#container-login{
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+#main-login{
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+
+#password{
+    text-align: left;
+}
+
+#contrasenia{
+    text-align: left;
+}
+

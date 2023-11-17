@@ -1,0 +1,24 @@
+#imagenpregunta{
+    margin-top: 5%;
+}
+#enunciadopregunta{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#pregunta-creada{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    width: 18%;
+}
+#contenedor-crea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#botoncrear{
+    margin-top: 5%;
+}

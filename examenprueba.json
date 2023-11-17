@@ -1,0 +1,233 @@
+{
+    "Examen":{
+        "id": 1,
+        "preguntas": [
+            {
+                "id": 1,
+                "Categoria": "Prioridad de paso",
+                "Dificultad": "Medio",
+                "enunciado": "¿Cuál es la capital de Francia?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 1,
+                        "respuesta": "Londres"
+                    },
+                    {
+                        "id": 2,
+                        "respuesta": "Roma"
+                    },
+                    {
+                        "id": 3,
+                        "respuesta": "París"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de España?",
+                "imagen": "IMAGES/fondo.jpg",
+                "tipo": "jpg",
+                "respuestas": [
+                    {
+                        "id": 4,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 5,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 6,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Portugal?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 7,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 8,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 9,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Italia?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 10,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 11,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 12,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Reino Unido?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 13,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 14,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 15,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de China?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 16,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 17,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 18,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Pekín?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 19,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 20,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 21,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Andorra?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 22,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 23,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 24,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Colombia?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 25,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 26,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 27,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "Categoria": "TRÁFICO",
+                "Dificultad": "FÁCIL",
+                "enunciado": "¿Cuál es la capital de Marruecos?",
+                "imagen": "IMAGES/LOGO.png",
+                "tipo": "png",
+                "respuestas": [
+                    {
+                        "id": 28,
+                        "respuesta": "Si"
+                    },
+                    {
+                        "id": 29,
+                        "respuesta": "No"
+                    },
+                    {
+                        "id": 30,
+                        "respuesta": "Si execepto esto"
+                    }
+                ]
+            }
+
+        ]
+    }
+
+
+
+
+    
+}

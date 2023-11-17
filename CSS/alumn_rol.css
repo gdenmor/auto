@@ -1,0 +1,14 @@
+#rol{
+    background-color: #3d8a76;
+    width: 5%;
+    height: 20%;
+}
+
+#container-alumno{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+}

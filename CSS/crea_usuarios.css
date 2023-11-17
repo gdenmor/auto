@@ -1,0 +1,55 @@
+#navegacion{
+    display: flex;
+    width: 100%;
+    background-color: #D0B97D;
+}
+
+#cierra{
+    float: right;
+}
+
+#historico{
+    margin-top: 2%;
+    background-color: white;
+}
+
+
+
+
+.imagen{
+    width: 5%;
+    height: 5%;
+}
+
+#rechazar{
+    width: 10%;
+    height: 10%;
+}
+.BOTONES{
+    margin-left: 20%;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    display: flex;
+}
+.BOTONES input{
+    background-color: black;
+    color: white;
+}
+
+#borrar{
+    margin-right: 13%;
+}
+
+#CIERRA input{
+    background-color: black;
+    color: white;
+}
+
+#divcrea{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar horizontalmente */
+    justify-content: center;
+}

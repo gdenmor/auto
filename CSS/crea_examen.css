@@ -1,0 +1,16 @@
+#contenedor-crea{
+    display: grid;
+}
+
+.pregunta-examen-creada{
+    margin-bottom: 15%;
+}
+
+.borra:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color: blue;
+}
+.divs{
+    background-color: white;
+}

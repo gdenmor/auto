@@ -1,0 +1,12 @@
+#pila {
+    display: flex;
+    flex-wrap: wrap; /* Para que los contenedores se muevan a la siguiente línea si no hay suficiente espacio */
+    justify-content: center;
+}
+#contenedor-tablas {
+    text-align: center;
+}
+
+.tabla-container {
+    margin: 10px; /* Espaciado entre las tablas */
+}

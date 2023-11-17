@@ -1,0 +1,12 @@
+table thead th{
+    background-color: gray;
+}
+
+table tbody tr td{
+    background-color: white;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}

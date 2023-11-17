@@ -1,0 +1,108 @@
+/*Alumno*/
+#menu{
+    background-color: #D0B97D;
+}
+
+#nav-alumno {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.elementos-alumno {
+    margin: 0; /* Ajusta el margen entre elementos según sea necesario */
+}
+
+.elementos_desplegable-alumno {
+    display: none;
+    background-color: #f9f9f9;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.elementos-alumno:hover .elementos_desplegable-alumno {
+    display: block;
+    position: absolute;
+    margin: 0;
+}
+
+.elementos-alumno{
+    border: 2px solid #f58611;
+}
+
+#loginalumno img{
+    width: 100%;
+    height: 100%;
+}
+
+#loginalumno{
+    height: 100%;
+}
+
+#nav-alumno{
+    background-color: white;
+}
+
+
+/*PROFESOR*/
+
+#menu-profesor{
+    background-color: white;
+}
+
+#nav-profesor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.elementos-profesor {
+    margin: 0;
+    border: 3px solid #f58611;
+    overflow: hidden;
+}
+
+.link1 .boton-profesor{
+    background: none;
+    border: none;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+
+#loginprofesor img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#header{
+    border: 2px solid #f58611;
+}
+
+.link2 .boton-profesor{
+    background: none;
+    border: 3px solid #f58611;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+
+/*ADMIN*/
+#navegacion {
+    display: flex;
+    justify-content: space-between; /* Alinea los elementos al principio y al final del contenedor */
+    align-items: center; /* Alinea verticalmente los elementos al centro del contenedor */
+    background-color: #f9f9f9;
+}
+
+.elementos-profesor {
+    background: none;
+}
+
+#logout{
+    background: none;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+    border: 3px solid #f58611;
+}

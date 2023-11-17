@@ -1,0 +1,33 @@
+.padre {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(192, 189, 189);
+    height: 100%;
+    margin-top: 2%;
+}
+.gruporedes{
+    width: 40%;
+}
+.redes {
+    display: flex;
+    align-items: center;
+}
+
+.redes img {
+    display: block;
+    margin-bottom: 5px;
+    width: 5%;
+}
+
+.iframe {
+    flex: 1; /* El último elemento se expandirá para ocupar el espacio restante */
+}
+.iframe iframe{
+    width: 100%;
+    height: 100%;
+}
+#footer{
+    width: 100%;
+}
+
